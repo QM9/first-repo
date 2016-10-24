@@ -1,0 +1,29 @@
+div {
+    color : red ;
+}
+#hey {
+	font-family: cursive;
+
+	color:maroon ;
+    text-align: center;
+    padding: 50px;
+    box-sizing: border-box;
+    overflow: auto;
+    border-width:20px;
+    border-left-width:10px;
+}
+img {
+	padding-left: 250px;
+}
+a {
+	color:blue;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color:purple;
+}
+
+#center {
+	text-align: center;
+}
